@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a188f344-adc5-4bab-9150-f5582abd80ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="stage" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-16.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Method.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-16.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-16.jdk/Contents/Home/lib/src.zip!/jdk.compiler/com/sun/tools/javac/processing/JavacProcessingEnvironment.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/9.2.2/java-client-9.2.2.jar!/io/appium/java_client/AppiumDriver.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/4.3.3/rest-assured-4.3.3.jar!/io/restassured/internal/RestAssuredResponseImpl.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.26.0/selenium-api-4.26.0.jar!/org/openqa/selenium/TakesScreenshot.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.26.0/selenium-remote-driver-4.26.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2.jar!/org/testng/Assert.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2.jar!/org/testng/IClassListener.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2.jar!/org/testng/ITestListener.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mCEwEL3x9rbT2BdIh4ZAMyeSu0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Karate.Reports.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/admin/Documents/FosRestAssuredAutomationProject/BulkVisitTestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/admin/Documents/FosRestAssuredAutomationProject/apkInstallTestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BulkVisitTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BulkVisitTest.testBulkVisitCreation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.HomeTest.testHomeButtonClick.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PortfolioGetApiTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PortfolioGetApiTest.testPortfolioApi.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/admin/Documents/FosRestAssuredAutomationProject/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/FosRestAssuredAutomationProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/admin/Documents/FosRestAssuredAutomationProject/src/main/java/org/fos/com/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/mobile" />
+      <recent name="$PROJECT_DIR$/apkfile" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/api/data" />
+      <recent name="$PROJECT_DIR$/src/test/java/data" />
+      <recent name="$PROJECT_DIR$/src/test/java/utils" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fos.mobile.utils" />
+      <recent name="mobile.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/admin/Documents/FosRestAssuredAutomationProject/apkInstallTestng.xml">
+    <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FosRestAssuredAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mobile.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mobile.testCases" />
+      <option name="MAIN_CLASS_NAME" value="mobile.testCases.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.testHomeButtonClick" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FosRestAssuredAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mobile.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mobile.testCases" />
+      <option name="MAIN_CLASS_NAME" value="mobile.testCases.HomeTest" />
+      <option name="METHOD_NAME" value="testHomeButtonClick" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FosRestAssuredAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mobile.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mobile.testCases" />
+      <option name="MAIN_CLASS_NAME" value="mobile.testCases.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/admin/Documents/FosRestAssuredAutomationProject/BulkVisitTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FosRestAssuredAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BulkVisitTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/admin/Documents/FosRestAssuredAutomationProject/apkInstallTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FosRestAssuredAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/apkInstallTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.HomeTest.testHomeButtonClick" />
+        <item itemvalue="TestNG.HomeTest" />
+        <item itemvalue="TestNG./Users/admin/Documents/FosRestAssuredAutomationProject/BulkVisitTestng.xml" />
+        <item itemvalue="TestNG./Users/admin/Documents/FosRestAssuredAutomationProject/apkInstallTestng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a188f344-adc5-4bab-9150-f5582abd80ed" name="Changes" comment="" />
+      <created>1726572506671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726572506671</updated>
+      <workItem from="1726572508078" duration="65884000" />
+      <workItem from="1727117276970" duration="216000" />
+      <workItem from="1727118082575" duration="922000" />
+      <workItem from="1727119183602" duration="170000" />
+      <workItem from="1727119402004" duration="1118000" />
+      <workItem from="1727122741208" duration="185000" />
+      <workItem from="1727153502281" duration="25000" />
+      <workItem from="1727160672656" duration="42849000" />
+      <workItem from="1727358881780" duration="40318000" />
+      <workItem from="1727959803327" duration="3077000" />
+      <workItem from="1727964307496" duration="14990000" />
+      <workItem from="1728030567865" duration="4562000" />
+      <workItem from="1728045551804" duration="5696000" />
+      <workItem from="1728118075731" duration="3419000" />
+      <workItem from="1728454168979" duration="2087000" />
+      <workItem from="1728474678621" duration="114000" />
+      <workItem from="1729939111683" duration="20675000" />
+      <workItem from="1730969090734" duration="40193000" />
+      <workItem from="1732200476041" duration="18707000" />
+      <workItem from="1732515290624" duration="1588000" />
+      <workItem from="1732516950022" duration="35388000" />
+      <workItem from="1738670504268" duration="5305000" />
+      <workItem from="1738852779635" duration="520000" />
+      <workItem from="1738853315638" duration="5941000" />
+      <workItem from="1738907277223" duration="5082000" />
+      <workItem from="1740392644518" duration="583000" />
+      <workItem from="1740393348487" duration="1077000" />
+      <workItem from="1741692729944" duration="2981000" />
+      <workItem from="1742546827832" duration="357000" />
+      <workItem from="1742552267580" duration="13906000" />
+      <workItem from="1742985761843" duration="29000" />
+      <workItem from="1743660374949" duration="60000" />
+      <workItem from="1743660582153" duration="2213000" />
+      <workItem from="1744009963254" duration="11232000" />
+      <workItem from="1744391912585" duration="24000" />
+      <workItem from="1744422026151" duration="3259000" />
+      <workItem from="1744601418064" duration="1912000" />
+      <workItem from="1745779183624" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/fos/com/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

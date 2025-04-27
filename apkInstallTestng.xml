@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name=" Api Automate Test Suite 2">
+    <listeners>
+        <listener class-name="org.testng.reporters.XMLReporter" />
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="mobile.utils.ExtentListenerClass"></listener>
+    </listeners>
+    <test name="apkTest">
+        <classes>
+            <class name="mobile.testCases.LoginTest" />
+        </classes>
+    </test>
+</suite>
